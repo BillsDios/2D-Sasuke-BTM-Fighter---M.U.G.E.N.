@@ -24,31 +24,33 @@ https://www.youtube.com/watch?v=PS0HDxsCkhI&ab_channel=BillsDios
 
 ## Main Files Description 📘
 
-* **[1.act]**: This file stores the color palette of the character.  
-
-* **[Combos y Tecnicas.cns]**: This file is the programming code for the character's special powers in the base state of the anime.
-
 * **[common1.cns]**: This file is the programming code for the character's basic movements such as standing, crouching, walking, running, jumping and falling.
 
-* **[Kage Bunshin.cns]**: This file is the programming code for the behavior of Naruto's shadow clones.
+* **[Especiales.cns]**: This file is the programming code for the character's special powers in the base state of the anime.
 
-* **[KCM-Combos y Tecnicas.cns]**: This file is the programming code for the character's attacks, combos and special powers in the Kurama Chakra Mode (KCM) of the anime.
+* **[IA.cns]**: This file is the programming code for the character's A.I. (Artificial Intelligence).
 
-* **[Kyubi Invocacion.cns]**: This file is the programming code for the behavior of the Kyubi or Kurama summoned by Naruto.
+* **[Kage Bunshin.cns]**: This file is the programming code for the behavior of Sasuke's shadow clones.
 
-* **[Naruto Nanadaime.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
+* **[Sasuke Sensei.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
 
-* **[Naruto.act]**: This file stores the color palette of the character.
+* **[Sasuke.act]**: This file stores the color palette of the character.
 
-* **[Naruto.air]**: This file stores all the animations of the character.
+* **[Sasuke.air]**: This file stores all the animations of the character.
 
-* **[Naruto.cmd]**: This file contains the logic and the calling of certain programming blocks by means of commands, such as keyboard or joystick.
+* **[Sasuke.cmd]**: This file contains the logic and the calling of certain programming blocks by means of commands, such as keyboard or joystick.
 
-* **[Naruto.cns]**: This file is the programming code for the character's attacks and combos in the base state of the anime.
+* **[Sasuke.cns]**: This file is the programming code for the character's attacks and combos in the base state of the anime.
 
-* **[Naruto.sff]**: This file stores all the sprites of the character.
+* **[Sasuke.sff]**: This file stores all the sprites of the character.
 
-* **[Naruto.snd]**: This file stores all the sounds of the character.
+* **[Sasuke.snd]**: This file stores all the sounds of the character.
+
+* **[Supers.cns]**: This file is the programming code for the character's super powers in the base state of the anime.
+
+* **[Susanoo_Perfecto.cns]**: This file is the programming code for the character's Perfect Sussano of the anime.
+
+* **[SusanooLV3.cns]**: This file is the programming code for the character's Sussano of the anime.
 
 ## Hiring 🤝🏿
 
