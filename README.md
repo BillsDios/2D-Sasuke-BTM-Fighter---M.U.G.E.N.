@@ -6,7 +6,7 @@ A 2D fighter based on Sasuke character from Boruto The Movie. Functional for the
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
-    -[YouTube](https://www.youtube.com/@billsdios)
+    -[YouTube](https://www.youtube.com/@billslasa)
   
 * **RCT29** -> Perfect Sussano sprites
 
